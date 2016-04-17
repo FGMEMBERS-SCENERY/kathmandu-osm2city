@@ -1,0 +1,42 @@
+# osm2city__home_delta_Kathmandu-osm
+# do not edit below this line
+# Last Written Sun Apr 17 19:59:03 2016
+#
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1112.xml 85.19459 27.63955 2305.56 0
+OBJECT_STATIC lightmap-switch.xml 85.19459 27.63955 2305.56 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1114.xml 85.19459 27.67565 2271.84 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1115.xml 85.19459 27.69369 1976.36 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1116.xml 85.19459 27.71174 1198.92 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1117.xml 85.19459 27.72979 1083.31 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1118.xml 85.19459 27.74784 1239.52 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1212.xml 85.21485 27.63955 1998.46 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1213.xml 85.21485 27.65760 2213.59 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1214.xml 85.21485 27.67565 1860.01 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1215.xml 85.21485 27.69369 1490.15 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1216.xml 85.21485 27.71174 1668.62 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1217.xml 85.21485 27.72979 1296.59 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1218.xml 85.21485 27.74784 1208.97 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1312.xml 85.23512 27.63955 2026.70 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1313.xml 85.23512 27.65760 1904.55 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1314.xml 85.23512 27.67565 1496.36 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1315.xml 85.23512 27.69369 1411.71 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1316.xml 85.23512 27.71174 1644.91 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1317.xml 85.23512 27.72979 1490.22 0
+OBJECT_STATIC _home_delta_Kathmandu-osmcity1318.xml 85.23512 27.74784 1841.52 0
+# END osm2city__home_delta_Kathmandu-osm
+# osm2roads__home_delta_Kathmandu-osm
+# do not edit below this line
+# Last Written Sun Apr 17 20:11:17 2016
+#
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0007.xml 85.21013 27.63536 1914.66 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0009.xml 85.21013 27.67146 2053.17 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0010.xml 85.21013 27.68951 1617.70 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0011.xml 85.21013 27.70756 1518.41 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0012.xml 85.21013 27.72560 1266.78 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0013.xml 85.21013 27.74365 1198.25 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0109.xml 85.23040 27.67146 1606.40 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0110.xml 85.23040 27.68951 1435.29 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0111.xml 85.23040 27.70756 1473.59 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0112.xml 85.23040 27.72560 1570.65 0
+OBJECT_STATIC _home_delta_Kathmandu-osmroads0113.xml 85.23040 27.74365 1604.95 0
+# END osm2roads__home_delta_Kathmandu-osm
